@@ -4,10 +4,10 @@
 ---
 
 ## 🧑‍💻 About Me
-Working on the Security of AI-driven Code Agents Analyzing systems from both offensive and defensive perspectives.
-Currently working on Agentic vulnerability exploitation, Safe code generation and Safety of ai based code completion models. 
-I have previously worked on LLM Based SE Data Annotations and Active Learning check out `lazy-llm` repo of mine if ur interested.
-I have collobarated with top researchers working on AI4SE and always ready to collobarate on interested projects
+- Working on the Security of AI-driven Code Agents Analyzing systems from both offensive and defensive perspectives.
+- Currently working on Agentic vulnerability exploitation, Safe code generation and Safety of ai based code completion models. 
+- I have previously worked on LLM Based SE Data Annotations and Active Learning check out `lazy-llm` repo of mine if ur interested.
+- I have collobarated with top researchers working on AI4SE and always ready to collobarate on interested projects
 
 
 ---
@@ -41,20 +41,3 @@ I have collobarated with top researchers working on AI4SE and always ready to co
 </p>
 
 
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohithsowmiyan&theme=react-dark" />
-</p>
-
-
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lohithsowmiyan/lohithsowmiyan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
